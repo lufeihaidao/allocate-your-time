@@ -1,0 +1,10 @@
+#work time
+0.0.0.0	renren.com	#work label
+0.0.0.0	weibo.com	#work label
+0.0.0.0	acfun.tv		#work label
+0.0.0.0	tieba.baidu.com	#work label
+
+127.0.0.1	localhost
+
+# x.x.x.x i.am.a.website
+# anything you want to add
